@@ -34,8 +34,7 @@ The TouristDestinationsProject provides an engaging and straightforward way for 
 
 # Screenshot:
 
-# Image1:
-<img width="1409" alt="image" src="https://github.com/user-attachments/assets/d1a66319-4572-4c00-b3e6-ab908be4916b">
+
 
 # Image2:
 <img width="1409" alt="image" src="https://github.com/user-attachments/assets/8a7bddaa-8fc0-4deb-9c58-0b9358b0a610">
